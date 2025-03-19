@@ -1,16 +1,16 @@
 top bun
 
-lettuce (added by Joshua)
-
+Tacos
+corn
 Cheese (added by Joshua)
 
 Onion (added by Joshua)
 
-Patty
+peanut butter
 
 Ketchup
 
 Mustard
-
+more mustard
 
 bottem bun
